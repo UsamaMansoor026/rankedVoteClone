@@ -5,14 +5,14 @@ About Ranked-Choice Voting:
 Actually this website is about an online ranked-choice voting platform. Which states the benefits of ranked-choice voting and how it can be used to make decisions. Ranked-choice voting allows voters to rank candidates in order of preference. This can lead to better decisions and eliminate the need for multiple rounds of voting.
 
 Features:
---> Fully responsive: The website adapts to different screen sizes for a good user experience on any device.
---> Built with modern web technologies: HTML5, CSS3, and JavaScript ensure a fast and smooth experience.
---> Friendly user interface: The website is easy to use and navigate, with clear instructions and smooth transitions.
+1) Fully responsive: The website adapts to different screen sizes for a good user experience on any device.
+2) Built with modern web technologies: HTML5, CSS3, and JavaScript ensure a fast and smooth experience.
+3) Friendly user interface: The website is easy to use and navigate, with clear instructions and smooth transitions.
 
 Technologies Used:
---> HTML5
---> CSS
---> JavaScript
+1) HTML5
+2)  CSS
+3)   JavaScript
 
 If you want to use this code follow the below steps:
 
